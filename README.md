@@ -35,7 +35,7 @@ Posisi kursor ada di folder yang akan dilakukan sinkronisasi ke Github.
    Contoh GitHub:
 
    ```bash
-   git remote add origin https://github.com/username/kobedork-app.git
+   git remote add origin https://github.com/cahyod/kobedork-app.git
    ```
    Pindah URL
    
